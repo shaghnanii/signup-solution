@@ -17,9 +17,9 @@ Some steps need to be followed.
 - Then ``php artisan serve``.
 
 ## Flow
-> First you need to goto the home page and select widgets. (Currently there is only one widget seeder in the database.)
+> First you need to goto the home page and select widgets. (Currently there is only one widget seeder in the database)
 
-> After clicking on a particular widget you can check the packs which are available for the selected widget. (If needed more packs sizes can be added.)
+> After clicking on a particular widget you can check the packs which are available for the selected widget. (If needed more packs sizes can be added)
 
 > In the http://127.0.0.1:8000/packs page you can enter the number of widgets.
 
