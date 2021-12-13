@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;700;900&family=Poppins:wght@300;400&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.custom-dark-bg {
+    background-color: #241F20 !important;
+}
+
+.custom-red-bg {
+    background-color: #FF0000;
+}
+
+.custom-red-color {
+    color: #FF0000;
+}
+
+.custom-black-color {
+    color: #241F20;
+}
