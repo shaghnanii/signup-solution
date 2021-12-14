@@ -10,7 +10,11 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{ $widget->name }}</h5>
                                 <h6 class="card-subtitle mb-2 text-muted">Check all the availabe packs</h6>
-                                <a href="{{ route('packs.index', ['widget_id' => $widget->id]) }}" class="text-decoration-none">Check widget details</a>
+                                <a href="{{ route('packs.index', ['widget_id' => $widget->id]) }}" class="text-decoration-none">
+                                    <button class="btn btn-success">
+                                        Check widget details
+                                    </button>
+                                </a>
                             </div>
                         </div>
                     </div>
